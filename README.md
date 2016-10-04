@@ -1,2 +1,24 @@
-# historias-do-svn
-Histórias do SVN
+# Histórias do SVN
+
+Eu bem que tentei defender até o final, porém, não há mais o que fazer, é hora de chutar cachorro morto. Então, vamos para as histórias do SVN que fizeram e mudar de idéia.
+
+Nota: O objetivo não é falar mal do SVN e sim fazer você refletir sobre se vale a pena sofrer para defender algo que teoricamente é ingrato com você.
+
+```bash
+svn: E155009: Failed to run the WC DB work queue associated with /folder/folder/folder/bla/bla/bla/folder/file.php
+```
+Cara, eu só queria fazer um update :(
+
+```bash
+svn: E200030: sqlite[S10]: disk I/O error
+```
+Esta até hoje não descobri o que é
+
+```bash
+svn: E155004: Run 'svn cleanup' to remove locks (type 'svn help cleanup' for details)
+svn: E155004: Working copy '/folder/folder/folder/bla/bla/bla/folder' locked.
+svn: E155004: '/folder/folder/folder/bla/bla/bla/folder' is already locked.
+dev@devel01:$ svn cleanup /folder/folder/folder/bla/bla/bla/folder
+svn: E155007: '/folder/folder/folder/bla/bla/bla/folder' is not a working copy
+```
+Como assim? A pasta está bloqueada, o svn pede para limpar, tu vai limpar e não é working copy? svn se autotrolando?
