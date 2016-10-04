@@ -20,5 +20,7 @@ svn: E155004: Working copy '/folder/folder/folder/bla/bla/bla/folder' locked.
 svn: E155004: '/folder/folder/folder/bla/bla/bla/folder' is already locked.
 dev@devel01:$ svn cleanup /folder/folder/folder/bla/bla/bla/folder
 svn: E155007: '/folder/folder/folder/bla/bla/bla/folder' is not a working copy
+dev@devel01:$ svn status /folder/folder/folder/bla/bla/bla/folder
+! L     /folder/folder/folder/bla/bla/bla/folder
 ```
 Como assim? A pasta está bloqueada, o svn pede para limpar, tu vai limpar e não é working copy? svn se autotrolando?
