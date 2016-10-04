@@ -5,7 +5,7 @@ Eu bem que tentei defender até o final, porém, não há mais o que fazer, é h
 Nota: O objetivo não é falar mal do SVN e sim fazer você refletir sobre se vale a pena sofrer para defender algo que teoricamente é ingrato com você.
 
 ```bash
-svn: E155009: Failed to run the WC DB work queue associated with /folder/folder/folder/bla/bla/bla/folder/file.php
+svn: E155009: Failed to run the WC DB work queue associated with /folder/bla/bla/bla/folder/file.php
 ```
 Cara, eu só queria fazer um update :(
 
