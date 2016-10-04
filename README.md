@@ -1,6 +1,6 @@
 # Histórias do SVN
 
-Eu bem que tentei defender até o final, porém, não há mais o que fazer, é hora de chutar cachorro morto. Então, vamos para as histórias do SVN que fizeram e mudar de idéia.
+Eu bem que tentei defender até o final, porém, não há mais o que fazer, é hora de chutar cachorro morto. Então, vamos para as histórias do SVN que me fizeram mudar de idéia.
 
 Nota: O objetivo não é falar mal do SVN e sim fazer você refletir sobre se vale a pena sofrer para defender algo que teoricamente é ingrato com você.
 
