@@ -24,3 +24,10 @@ dev@devel01:$ svn status /folder/folder/folder/bla/bla/bla/folder
 ! L     /folder/folder/folder/bla/bla/bla/folder
 ```
 Como assim? A pasta está bloqueada, o svn pede para limpar, tu vai limpar e não é working copy? svn se autotrolando?
+
+```bash
+svn: E200033: sqlite[S5]: database is locked
+svn: E200042: Additional errors:
+svn: E200033: sqlite[S5]: database is locked
+```
+svn guloso, quer o banco só pra ele
