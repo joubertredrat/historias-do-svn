@@ -31,3 +31,9 @@ svn: E200042: Additional errors:
 svn: E200033: sqlite[S5]: database is locked
 ```
 svn guloso, quer o banco só pra ele
+
+```bash
+svn: E155009: Failed to run the WC DB work queue associated with '/folder/folder/folder/bla/bla/bla/', work item 1178 (file-commit bla/MyAwesomeClass.php)
+svn: E000013: Não foi possível modificar as permissões do arquivo '/folder/folder/folder/bla/bla/bla/bla/MyAwesomeClass.php': Permissão negada
+```
+Okay, não tenho mais controle sobre meus próprios arquivos, o SVN é comunista, quer controlar tudo
