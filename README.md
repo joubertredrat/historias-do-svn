@@ -43,3 +43,8 @@ svn: E200033: Another process is blocking the working copy database, or the unde
 svn: E200033: sqlite[S5]: database is locked
 ```
 Sim, estou disputando comigo mesmo para ver quem commita mais rápido
+
+```bash
+svn: E200015: Sinal pego
+```
+AM ou FM?
