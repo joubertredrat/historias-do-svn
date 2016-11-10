@@ -37,3 +37,9 @@ svn: E155009: Failed to run the WC DB work queue associated with '/folder/folder
 svn: E000013: Não foi possível modificar as permissões do arquivo '/folder/folder/folder/bla/bla/bla/bla/MyAwesomeClass.php': Permissão negada
 ```
 Okay, não tenho mais controle sobre meus próprios arquivos, o SVN é comunista, quer controlar tudo
+
+```bash
+svn: E200033: Another process is blocking the working copy database, or the underlying filesystem does not support file locking; if the working copy is on a network filesystem, make sure file locking has been enabled on the file server
+svn: E200033: sqlite[S5]: database is locked
+```
+Sim, estou disputando comigo mesmo para ver quem commita mais rápido
