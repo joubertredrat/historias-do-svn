@@ -48,3 +48,13 @@ Sim, estou disputando comigo mesmo para ver quem commita mais rápido
 svn: E200015: Sinal pego
 ```
 AM ou FM?
+
+```bash
+svn: E155011: Commit falhou (detalhes a seguir):
+svn: E155011: Arquivo '/folder/folder/folder/bla/bla/bla/folder/file.php' desatualizado
+svn: E160024: resource out of date; try updating
+dev@devel01:~$ svn update
+Atualizando '.':
+Atualizado para revisão 20455.
+```
+Uau, Missão Impossível 00000101, a atualização fantasma.
